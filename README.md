@@ -7,3 +7,9 @@
 
 Here are some ideas to get you started:
 -->
+
+### Network Quiz Game
+Run the interactive quiz with:
+```bash
+python network_quiz_game.py
+```
